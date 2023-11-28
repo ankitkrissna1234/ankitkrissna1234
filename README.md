@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Sahu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="right" alt="">
 - 🌱 I’m currently learning **AI & ML ,Computer Vision etc**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankit-kumar-sahu-45130122a/](https://www.linkedin.com/in/ankit-kumar-sahu-45130122a/)
